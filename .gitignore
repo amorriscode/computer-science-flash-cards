@@ -1,1 +1,2 @@
-AnkdownPkg.apkg
+*.apkg
+build
