@@ -7,4 +7,4 @@ genanki==0.6.3
 misaka==2.1.0
 pycparser==2.18
 pystache==0.5.4
-PyYAML==3.12
+PyYAML>=4.2b1
