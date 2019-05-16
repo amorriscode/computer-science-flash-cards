@@ -30,6 +30,7 @@ Happy studies! 🤓
 I'm just starting my studies so the decks will grow. Currently, I have decks for the following topics:
 
 - [JavaScript](decks/javascript.md)
+- [Maths](decs/maths.md)
 
 ## Contributing
 
