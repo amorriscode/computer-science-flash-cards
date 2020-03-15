@@ -1,13 +1,13 @@
 # Markdown Computer Science Flash Cards
 
-This repository contains flash cards for my studies computer science/programming studies. Uses [ankdown](https://github.com/benwr/ankdown) for building Anki decks.
+This repository contains flash cards for my studies computer science/programming studies. It uses [mdanki](https://github.com/ashlinchak/mdanki) for building Anki decks.
 
 Happy studies! 🤓
 
 ## Creating Decks
 
 1. Create a folder under `decks/`
-2. Add `.md` files with your cards (refer to [ankdown](https://github.com/benwr/ankdown) for card formatting)
+2. Add `.md` files with your cards (refer to [mdanki](https://github.com/ashlinchak/mdanki) for card formatting)
 
 ## Building Your Decks
 
